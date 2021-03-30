@@ -7,6 +7,6 @@
 
 🚀 Interested in Ruby on Rails, C, Java and SQL.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-henrique-leite&count_private=true&show_icons=true&hide=issues,contribs&theme=radical)](https://github.com/thiago-henrique-leite)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-henrique-leite&count_private=true&show_icons=true&hide=issues,contribs,stars&theme=radical)](https://github.com/thiago-henrique-leite)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-leite&layout=compact&theme=radical)](https://github.com/thiago-henrique-leite)

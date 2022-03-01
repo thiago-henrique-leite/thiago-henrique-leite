@@ -17,8 +17,8 @@
 <br/>
 <div align="center">
   <p>
-    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-henrique-leite&show_icons=true&locale=en&layout=compact&theme=radical" alt="thiago-henrique-leite" />
-    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=thiago-henrique-leite&show_icons=true&locale=en&theme=radical" alt="thiago-henrique-leite" />
+    <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-henrique-leite&show_icons=true&locale=en&layout=compact&theme=radical" alt="thiago-henrique-leite" />
+    <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=thiago-henrique-leite&show_icons=true&locale=en&theme=radical" alt="thiago-henrique-leite" />
   </p><br/>
   <p><img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-henrique-leite&theme=radical" alt="thiago-henrique-leite" /></p>
 </div>

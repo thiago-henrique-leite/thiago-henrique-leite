@@ -3,7 +3,7 @@
 
 - ⚡ I'm a Support Leader in [@queroedu](https://sobre.quero.com/) and seventh period student of Computer Science at [@unifesp](https://www.unifesp.br/).
 
-- 🌱 I’m currently  learning **Ruby on Rails**, **Java** and **VueJS**.
+- 🌱 I’m currently  learning **Ruby on Rails**, **Elixir** and **VueJS**.
 
 <hr><br/>
 

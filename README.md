@@ -1,9 +1,9 @@
 <h1 align="center">Hi my dear, I'm Thiago Henrique 🤟</h1>
 <h3 align="center">A person in love with technology, programming, challenges and chess.</h3>
 
-- ⚡ I'm a Support Leader in [@queroedu](https://sobre.quero.com/) and seventh period student of Computer Science at [@unifesp](https://www.unifesp.br/).
+- ⚡ I'm a Software Developer in [@queroedu](https://sobre.quero.com/) and seventh period student of Computer Science at [@unifesp](https://www.unifesp.br/).
 
-- 🌱 I’m currently  learning **Ruby on Rails**, **Elixir** and **VueJS**.
+- 🌱 I’m currently working with **Ruby on Rails**, **Elixir** and **VueJS**.
 
 <hr><br/>
 
